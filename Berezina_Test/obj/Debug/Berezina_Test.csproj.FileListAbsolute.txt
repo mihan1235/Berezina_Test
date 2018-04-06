@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\Berezina_Test\Berezina_Test\bin\Debug\Berezina_Test.exe.config
+C:\Users\mihan\source\repos\Berezina_Test\Berezina_Test\bin\Debug\Berezina_Test.exe
+C:\Users\mihan\source\repos\Berezina_Test\Berezina_Test\bin\Debug\Berezina_Test.pdb
+C:\Users\mihan\source\repos\Berezina_Test\Berezina_Test\obj\Debug\Berezina_Test.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\Berezina_Test\Berezina_Test\obj\Debug\Berezina_Test.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\Berezina_Test\Berezina_Test\obj\Debug\Berezina_Test.exe
+C:\Users\mihan\source\repos\Berezina_Test\Berezina_Test\obj\Debug\Berezina_Test.pdb
